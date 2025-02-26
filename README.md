@@ -1,6 +1,6 @@
 ﻿# Yield Return Performance Comparison
 
-This repository contains some performance comparisons on [C# co-routines (`yield return`)](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/yield) style of programming.
+This repository contains some performance comparisons on [C# coroutines (`yield return/break`)](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/yield) style of programming.
 
 ## LoopYieldReturnBenchmarks
 
